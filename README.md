@@ -1,2 +1,2 @@
 # Power-Bi-Project
-sales Project
+Sales Dashboard
